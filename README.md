@@ -4,4 +4,5 @@ Un curso increible para el curso de Git y GitHub.
 
 Nos vemos en unos años, espero...
 * Ser millonario :D
+* Creado por el increible Platzi Team
 
